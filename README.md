@@ -14,7 +14,6 @@ A clean, floating pill-style navigation bar with a FAB (Floating Action Button) 
 
 </p>
 
----
 
 ## 🌪️ Features
 
@@ -24,7 +23,6 @@ A clean, floating pill-style navigation bar with a FAB (Floating Action Button) 
 - ➕ Quick-Action Popup Menu
 - 📱 Responsive Design
 
----
 
 ## 🚀 Built With
 

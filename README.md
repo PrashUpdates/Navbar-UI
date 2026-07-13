@@ -35,6 +35,8 @@ A clean, floating pill-style navigation bar with a FAB (Floating Action Button) 
 - CSS3
 - JavaScript
 
+<div align="center">
+
 ### ⭐ If you like this project, consider giving it a Star!
 
 </div>

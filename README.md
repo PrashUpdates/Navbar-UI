@@ -8,10 +8,17 @@ A clean, floating pill-style navigation bar with a FAB (Floating Action Button) 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
 </p>
-<p align="center">
-<img src="https://img.shields.io/badge/Responsive-Yes-22C55E?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Animations-5-8B5CF6?style=for-the-badge">
 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Responsive-Yes-22C55E?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Animations-5-8B5CF6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Dark%20Mode-Supported-111827?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Mobile%20Friendly-100%25-3B82F6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Clean%20UI-Modern-06B6D4?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Performance-Optimized-F59E0B?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Lightweight-Fast-E11D48?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Beginner-Friendly-14B8A6?style=for-the-badge">
 </p>
 
 

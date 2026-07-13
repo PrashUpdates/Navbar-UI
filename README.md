@@ -17,7 +17,6 @@ A clean, floating pill-style navigation bar with a FAB (Floating Action Button) 
   <img src="https://img.shields.io/badge/Clean%20UI-Modern-06B6D4?style=for-the-badge">
   <img src="https://img.shields.io/badge/Performance-Optimized-F59E0B?style=for-the-badge">
   <img src="https://img.shields.io/badge/Lightweight-Fast-E11D48?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Beginner-Friendly-14B8A6?style=for-the-badge">
 </p>
 
 

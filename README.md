@@ -1,4 +1,4 @@
-# 🔶 Navbar
+# 🥏 Navbar
 
 <p align="center">
 A clean, floating pill-style navigation bar with a FAB (Floating Action Button) and quick-action menu, built using HTML, CSS, and JavaScript.

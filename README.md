@@ -1,4 +1,4 @@
-# 🔶 Navbar
+# 🌈 Navbar
 
 A clean, floating pill-style navigation bar with a FAB (Floating Action Button) and quick-action menu, built using HTML, CSS, and JavaScript.
 
@@ -16,7 +16,7 @@ A clean, floating pill-style navigation bar with a FAB (Floating Action Button) 
 
 ---
 
-## ✨ Features
+## 🌪️ Features
 
 - 🧭 Floating Pill Navigation
 - 🔵 Circular FAB Button
